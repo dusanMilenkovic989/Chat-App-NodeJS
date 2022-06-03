@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/index.js",
     "dev": "nodemon src/index.js",
-    "build": "webpack --mode production"
+    "build-client": "webpack --mode production"
   },
   "keywords": [],
   "author": "",
